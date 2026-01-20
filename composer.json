@@ -10,7 +10,7 @@
         "laravel/fortify": "^1.22",
         "laravel/framework": "^11.9",
         "laravel/sanctum": "^4.0",
-        "laravel/tinker": "^2.9"
+        "laravel/tinker": "^2.9",
          "nesbot/carbon": "^3.7",
         "spatie/laravel-backup": "^9.0"
     },
